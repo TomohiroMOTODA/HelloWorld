@@ -1,2 +1,2 @@
 # HelloWorld
-Education for git
+My practicing git
